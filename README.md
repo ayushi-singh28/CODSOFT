@@ -114,8 +114,15 @@ Congratulations! You guessed the correct number.
 • Basic Problem Solving in C++
 <br>
 <br>
-Author
-Ayushi Singh
-Internship
+<br>
+📌**Internship-**
+<br>
+<br>
 CodSoft C++ Programming Internship - Task 1
+<br>
+<br>
+***Author***👩‍💻
+<br>
+<br>
+**Ayushi Kumari**
    
