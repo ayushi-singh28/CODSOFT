@@ -1,9 +1,10 @@
 #***CODSOFT***
+<br>
 Codsoft C++ Internship Tasks -
 <br>
-   TASK 1 - Number Guessing Game
+     TASK 1 - Number Guessing Game
    <br>
-   TASK 2 - Simple Calculator
+     TASK 2 - Simple Calculator
    <br>
-   TASK 3 - Tic-Tac-Toe Game 
+     TASK 3 - Tic-Tac-Toe Game 
    
