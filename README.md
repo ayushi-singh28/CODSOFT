@@ -33,11 +33,16 @@ The program generates a random number between 1 and 100, and the user has to gue
 **Features**
 <br>
 <br>
-Random number generation
-User-friendly console interface
-Unlimited guessing attempts
-Hints for each incorrect guess
-Displays a congratulatory message when the correct number is guessed
+• Random number generation
+<br>
+• User-friendly console interface
+<br>
+• Unlimited guessing attempts
+<br>
+• Hints for each incorrect guess
+<br>
+• Displays a congratulatory message when the correct number is guessed
+<br>
 Technologies Used
 C++
 Visual Studio Code
