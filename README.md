@@ -20,8 +20,15 @@ Codsoft C++ Internship Tasks -
 <br>
 
 <br>
-Description
+
+**Description**
+<br>
+
+<br>
 This is a simple C++ Number Guessing Game developed as part of the CodSoft C++ Programming Internship.
+<br>
+
+<br>
 The program generates a random number between 1 and 100, and the user has to guess it. The game provides hints whether the guessed number is too high or too low until the correct number is guessed.
 Features
 Random number generation
