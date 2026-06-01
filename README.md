@@ -21,7 +21,7 @@ Codsoft C++ Internship Tasks -
 
 <br>
 
-**Description-**
+📌**Description-**
 <br>
 <br>
 This is a simple C++ Number Guessing Game developed as part of the CodSoft C++ Programming Internship.
@@ -30,7 +30,7 @@ This is a simple C++ Number Guessing Game developed as part of the CodSoft C++ P
 The program generates a random number between 1 and 100, and the user has to guess it. The game provides hints whether the guessed number is too high or too low until the correct number is guessed.
 <br>
 <br>
-**Features-**
+📌**Features-**
 <br>
 <br>
 • Random number generation
@@ -44,7 +44,7 @@ The program generates a random number between 1 and 100, and the user has to gue
 • Displays a congratulatory message when the correct number is guessed
 <br>
 <br>
-**Technologies Used-**
+📌**Technologies Used-**
 <br>
 <br>
 • C++
@@ -54,12 +54,19 @@ The program generates a random number between 1 and 100, and the user has to gue
 • MinGW Compiler
 <br>
 <br>
-How It Works
-The program generates a random number between 1 and 100.
-The user enters a guess.
-The program checks the guess:
-If the guess is higher than the number, it displays "Too High!"
-If the guess is lower than the number, it displays "Too Low!"
+📌**How It Works ?**
+<br>
+<br>
+1.The program generates a random number between 1 and 100
+<br>
+2.The user enters a guess.
+<br>
+3.The program checks the guess:
+<br>
+• If the guess is higher than the number, it displays "Too High!"
+<br>
+• If the guess is lower than the number, it displays "Too Low!"
+<br>
 The process continues until the correct number is guessed.
 The program displays a success message.
 Sample Output
