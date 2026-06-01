@@ -57,27 +57,49 @@ The program generates a random number between 1 and 100, and the user has to gue
 📌**How It Works ?**
 <br>
 <br>
-1.The program generates a random number between 1 and 100
+1. The program generates a random number between 1 and 100
 <br>
-2.The user enters a guess.
+2. The user enters a guess.
 <br>
-3.The program checks the guess:
+3. The program checks the guess:
 <br>
 • If the guess is higher than the number, it displays "Too High!"
 <br>
 • If the guess is lower than the number, it displays "Too Low!"
 <br>
-The process continues until the correct number is guessed.
-The program displays a success message.
-Sample Output
+4. The process continues until the correct number is guessed.
+    <br>
+5. The program displays a success message.
+    <br>
+    <br>
+📌**Sample Output-**
+<br>
+<br>
 === Number Guessing Game ===
+<br>
+<br>
 Guess a number between 1 and 100
+<br>
+<br>
 Enter your guess: 50
+<br>
+<br>
 Too Low! Try Again.
+<br>
+<br>
 Enter your guess: 75
+<br>
+<br>
+   
 Too High! Try Again.
+<br>
+<br>
 Enter your guess: 63
+<br>
+<br>
 Congratulations! You guessed the correct number.
+<br>
+<br>
 Learning Outcomes
 Random Number Generation using rand()
 Loops (do-while)
