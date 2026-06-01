@@ -100,12 +100,20 @@ Enter your guess: 63
 Congratulations! You guessed the correct number.
 <br>
 <br>
-Learning Outcomes
-Random Number Generation using rand()
-Loops (do-while)
-Conditional Statements (if-else)
-User Input and Output
-Basic Problem Solving in C++
+📌**Learning Outcomes-**
+<br>
+<br>
+• Random Number Generation using rand()
+<br>
+• Loops (do-while)
+<br>
+• Conditional Statements (if-else)
+<br>
+• User Input and Output
+<br>
+• Basic Problem Solving in C++
+<br>
+<br>
 Author
 Ayushi Singh
 Internship
