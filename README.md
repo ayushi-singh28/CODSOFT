@@ -1,119 +1,107 @@
 #***CODSOFT***
-<br>
-     Codsoft C++ Internship Tasks -
-<br>
-    This repository contains the C++ projects completed as part of my CodSoft Internship.
-<br>
 
-<br>
-     TASK 1 - Number Guessing Game
-   <br>
-     TASK 2 - Simple Calculator
-   <br>
-     TASK 3 - Tic-Tac-Toe Game
-<br>
+# Task 1 - Number Guessing Game
 
+## 📌 Project Overview
+The Number Guessing Game is a simple console-based C++ application where the computer generates a random number, and the user attempts to guess it. The program provides feedback after each guess until the correct number is found.
 
-<br>
+## 🚀 Features
+- Random number generation
+- User-friendly console interface
+- Hint system (Too High / Too Low)
+- Unlimited attempts until the correct guess
+- Displays success message when the number is guessed correctly
 
-***TASK 1 - Number Guessing Game***
-<br>
+## 🛠️ Technologies Used
+- C++
+- Visual Studio Code
+- GitHub
 
-<br>
-
-📌**Description-**
-<br>
-<br>
-This is a simple C++ Number Guessing Game developed as part of the CodSoft C++ Programming Internship.
-<br>
-<br>
-The program generates a random number between 1 and 100, and the user has to guess it. The game provides hints whether the guessed number is too high or too low until the correct number is guessed.
-<br>
-<br>
-📌**Features-**
-<br>
-<br>
-• Random number generation
-<br>
-• User-friendly console interface
-<br>
-• Unlimited guessing attempts
-<br>
-• Hints for each incorrect guess
-<br>
-• Displays a congratulatory message when the correct number is guessed
-<br>
-<br>
-📌**Technologies Used-**
-<br>
-<br>
-• C++
-<br>
-• Visual Studio Code
-<br>
-• MinGW Compiler
-<br>
-<br>
-📌**How It Works ?**
-<br>
-1. The program generates a random number between 1 and 100
-<br>
+## ⚙️ How It Works
+1. The program generates a random number.
 2. The user enters a guess.
-<br>
-3. The program checks the guess:
-<br>
-• If the guess is higher than the number, it displays "Too High!"
-<br>
-• If the guess is lower than the number, it displays "Too Low!"
-<br>
-4. The process continues until the correct number is guessed.
-    <br>
-5. The program displays a success message.
-    <br>
-    <br>
-📌**Sample Output-**
-<br>
-<br>
-=== Number Guessing Game ===
-<br>
-<br>
-Guess a number between 1 and 100
-<br>
-<br>
-Enter your guess: 50
-<br>
-<br>
+3. The program compares the guess with the secret number.
+4. If the guess is too high, the program displays "Too High".
+5. If the guess is too low, the program displays "Too Low".
+6. The game continues until the user guesses the correct number.
+7. A congratulatory message is displayed when the user wins.
+
+## 📂 File Structure
+```
+guess_game.cpp
+```
+
+## ▶️ How to Run
+
+### Compile the Program
+```bash
+g++ guess_game.cpp -o guess_game
+```
+
+### Run the Program
+```bash
+./guess_game
+```
+
+## 💻 Sample Output
+
+### Example 1
+```
+Welcome to Number Guessing Game!
+
+Guess a number between 1 and 100: 50
+
 Too Low! Try Again.
-<br>
-<br>
-Enter your guess: 75
-<br>
-<br>
-   
+
+Guess a number between 1 and 100: 75
+
 Too High! Try Again.
-<br>
-<br>
-Enter your guess: 63
-<br>
-<br>
+
+Guess a number between 1 and 100: 68
+
 Congratulations! You guessed the correct number.
-<br>
-<br>
-📌**Learning Outcomes-**
-<br>
-<br>
-• Random Number Generation using rand()
-<br>
-• Loops (do-while)
-<br>
-• Conditional Statements (if-else)
-<br>
-• User Input and Output
-<br>
-• Basic Problem Solving in C++
-<br>
-<br>
-<br>
+```
+
+### Example 2
+```
+Welcome to Number Guessing Game!
+
+Guess a number between 1 and 100: 25
+
+Too Low! Try Again.
+
+Guess a number between 1 and 100: 40
+
+Too Low! Try Again.
+
+Guess a number between 1 and 100: 55
+
+Congratulations! You guessed the correct number.
+```
+
+## 📚 Concepts Used
+- Variables and Data Types
+- Loops (while/do-while)
+- Conditional Statements (if-else)
+- Random Number Generation
+- User Input and Output
+- Problem Solving
+
+## 🎯 Learning Outcomes
+- Understanding random number generation
+- Working with loops and conditions
+- Improving logical thinking
+- Building interactive console applications
+- Handling user input effectively
+
+## 👩‍💻 Author
+Ayushi Singh
+
+## 📜 Internship
+CodSoft C++ Programming Internship
+
+
+
 ***# Task 2 - Simple Calculator***
 <br>
 <br>
