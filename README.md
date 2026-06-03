@@ -1,4 +1,4 @@
-#***CODSOFT***
+# CODSOFT
 
 # Task 1 - Number Guessing Game
 
@@ -17,7 +17,7 @@ The Number Guessing Game is a simple console-based C++ application where the com
 - Visual Studio Code
 - GitHub
 
-## ⚙️ How It Works
+## ⚙️ How It Works ?
 1. The program generates a random number.
 2. The user enters a guess.
 3. The program compares the guess with the secret number.
