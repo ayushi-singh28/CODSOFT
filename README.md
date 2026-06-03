@@ -95,38 +95,24 @@ Congratulations! You guessed the correct number.
 - Handling user input effectively
 
 ## 👩‍💻 Author
-Ayushi Singh
+Ayushi Kumari
 
 ## 📜 Internship
 CodSoft C++ Programming Internship
 
 
-
 # Task 2 - Simple Calculator
-<br>
-<br>
 
-## 📌**Project Overview**
-<br>
+## 📌 Project Overview
 The Simple Calculator is a console-based C++ application that performs basic arithmetic operations. Users can enter two numbers and choose an operator to get the desired result.
-<br>
-<br>
 
-## 🚀 **Features-**
-<br>
+## 🚀 Features
 - Addition (+)
-<br>
 - Subtraction (-)
-<br>
 - Multiplication (*)
-<br>
 - Division (/)
-<br>
 - User-friendly interface
-<br>
 - Fast and accurate calculations
-<br>
-<br>
 
 ## 🛠️ Technologies Used
 - C++
@@ -215,6 +201,14 @@ Result = 5
 - Learned how to use switch-case statements
 - Practiced user interaction through console applications
 - Gained experience with arithmetic operations in C++
+
+## 👩‍💻 Author
+Ayushi Singh
+
+## 📜 Internship
+CodSoft C++ Programming Internship
+
+
 
 ## 👩‍💻 Author
 Ayushi Kumari
