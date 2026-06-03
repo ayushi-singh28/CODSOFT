@@ -56,7 +56,6 @@ The program generates a random number between 1 and 100, and the user has to gue
 <br>
 📌**How It Works ?**
 <br>
-<br>
 1. The program generates a random number between 1 and 100
 <br>
 2. The user enters a guess.
