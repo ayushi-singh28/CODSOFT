@@ -203,14 +203,6 @@ Result = 5
 - Gained experience with arithmetic operations in C++
 
 ## 👩‍💻 Author
-Ayushi Singh
-
-## 📜 Internship
-CodSoft C++ Programming Internship
-
-
-
-## 👩‍💻 Author
 Ayushi Kumari
 
 ## 📜 Internship
