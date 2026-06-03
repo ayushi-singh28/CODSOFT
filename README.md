@@ -114,7 +114,7 @@ Congratulations! You guessed the correct number.
 <br>
 <br>
 <br>
-***Task 2 - Simple Calculator***
+***##Task 2 - Simple Calculator***
 <br>
 <br>
 
