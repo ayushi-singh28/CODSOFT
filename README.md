@@ -16,7 +16,7 @@
 
 <br>
 
-***##Number Guessing Game***
+***TASK 1 - Number Guessing Game***
 <br>
 
 <br>
@@ -114,14 +114,122 @@ Congratulations! You guessed the correct number.
 <br>
 <br>
 <br>
-📌**Internship-**
+***Task 2 - Simple Calculator***
 <br>
 <br>
-CodSoft C++ Programming Internship - Task 1
+
+## 📌**Project Overview**
+<br>
+The Simple Calculator is a console-based C++ application that performs basic arithmetic operations. Users can enter two numbers and choose an operator to get the desired result.
 <br>
 <br>
-***Author***👩‍💻
+
+## 🚀 **Features-**
+<br>
+- Addition (+)
+<br>
+- Subtraction (-)
+<br>
+- Multiplication (*)
+<br>
+- Division (/)
+<br>
+- User-friendly interface
+<br>
+- Fast and accurate calculations
 <br>
 <br>
-**Ayushi Kumari**
-   
+
+## 🛠️ Technologies Used
+- C++
+- Visual Studio Code
+- GitHub
+
+## ⚙️ How It Works
+1. The program asks the user to enter the first number.
+2. The user selects an arithmetic operator (+, -, *, /).
+3. The program asks for the second number.
+4. Using a switch-case statement, the selected operation is performed.
+5. The result is displayed on the screen.
+
+## 📂 File Structure
+```
+calculator.cpp
+```
+
+## ▶️ How to Run
+
+### Compile the Program
+```bash
+g++ calculator.cpp -o calculator
+```
+
+### Run the Program
+```bash
+./calculator
+```
+
+## 💻 Sample Outputs
+
+### Addition
+```
+----- Simple Calculator -----
+
+Enter first number: 15
+Enter an operator (+, -, *, /): +
+Enter second number: 10
+
+Result = 25
+```
+
+### Subtraction
+```
+----- Simple Calculator -----
+
+Enter first number: 20
+Enter an operator (+, -, *, /): -
+Enter second number: 8
+
+Result = 12
+```
+
+### Multiplication
+```
+----- Simple Calculator -----
+
+Enter first number: 12
+Enter an operator (+, -, *, /): *
+Enter second number: 5
+
+Result = 60
+```
+
+### Division
+```
+----- Simple Calculator -----
+
+Enter first number: 50
+Enter an operator (+, -, *, /): /
+Enter second number: 10
+
+Result = 5
+```
+
+## 📚 Concepts Used
+- Variables and Data Types
+- User Input/Output
+- Arithmetic Operators
+- Switch-Case Statements
+- Basic Problem Solving
+
+## 🎯 Learning Outcomes
+- Improved understanding of C++ fundamentals
+- Learned how to use switch-case statements
+- Practiced user interaction through console applications
+- Gained experience with arithmetic operations in C++
+
+## 👩‍💻 Author
+Ayushi Singh
+
+## 📜 Internship
+CodSoft C++ Programming Internship
