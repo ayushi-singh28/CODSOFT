@@ -229,7 +229,7 @@ Result = 5
 - Gained experience with arithmetic operations in C++
 
 ## 👩‍💻 Author
-Ayushi Singh
+Ayushi Kumari
 
 ## 📜 Internship
 CodSoft C++ Programming Internship
