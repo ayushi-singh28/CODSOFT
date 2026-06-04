@@ -119,7 +119,7 @@ The Simple Calculator is a console-based C++ application that performs basic ari
 - Visual Studio Code
 - GitHub
 
-## ⚙️ How It Works
+## ⚙️ How It Works ?
 1. The program asks the user to enter the first number.
 2. The user selects an arithmetic operator (+, -, *, /).
 3. The program asks for the second number.
