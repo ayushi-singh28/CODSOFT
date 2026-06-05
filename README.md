@@ -94,11 +94,6 @@ Congratulations! You guessed the correct number.
 - Building interactive console applications
 - Handling user input effectively
 
-## 👩‍💻 Author
-Ayushi Kumari
-
-## 📜 Internship
-CodSoft C++ Programming Internship
 
 
 # Task 2 - Simple Calculator
@@ -202,11 +197,6 @@ Result = 5
 - Practiced user interaction through console applications
 - Gained experience with arithmetic operations in C++
 
-## 👩‍💻 Author
-Ayushi Kumari
-
-## 📜 Internship
-CodSoft C++ Programming Internship
 
 
 # Task 3 - Tic-Tac-Toe Game
@@ -312,8 +302,8 @@ Game Draw!
 - Handling user input validation
 - Developing problem-solving skills
 
-## 👩‍💻 Author
+# 👩‍💻 Author
 Ayushi Kumari
 
-## 📜 Internship
+# 📜 Internship
 CodSoft C++ Programming Internship
