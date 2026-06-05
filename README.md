@@ -207,3 +207,113 @@ Ayushi Kumari
 
 ## 📜 Internship
 CodSoft C++ Programming Internship
+
+
+# Task 3 - Tic-Tac-Toe Game
+
+## 📌 Project Overview
+The Tic-Tac-Toe Game is a console-based C++ application that allows two players to play the classic Tic-Tac-Toe game. Players take turns marking X and O on a 3×3 grid, and the game determines the winner or a draw automatically.
+
+## 🚀 Features
+- Two-player gameplay
+- Interactive 3×3 game board
+- Valid move checking
+- Winner detection
+- Draw detection
+- User-friendly console interface
+
+## 🛠️ Technologies Used
+- C++
+- Visual Studio Code
+- GitHub
+
+## ⚙️ How It Works
+1. The game displays a 3×3 board.
+2. Player 1 uses **X** and Player 2 uses **O**.
+3. Players take turns entering a position on the board.
+4. The program validates the move.
+5. After each move, the board is updated.
+6. The game checks for a winner.
+7. If all cells are filled and no winner exists, the game ends in a draw.
+
+## 📂 File Structure
+```text
+tic_tac_toe.cpp
+```
+
+## ▶️ How to Run
+
+### Compile the Program
+```bash
+g++ tic_tac_toe.cpp -o tic_tac_toe
+```
+
+### Run the Program
+```bash
+./tic_tac_toe
+```
+
+## 💻 Sample Output
+
+### Game Start
+```text
+Player 1 (X)  -  Player 2 (O)
+
+     |     |
+  1  |  2  |  3
+_____|_____|_____
+     |     |
+  4  |  5  |  6
+_____|_____|_____
+     |     |
+  7  |  8  |  9
+     |     |
+```
+
+### Example Gameplay
+```text
+Player 1, enter a number: 1
+Player 2, enter a number: 5
+Player 1, enter a number: 2
+Player 2, enter a number: 8
+Player 1, enter a number: 3
+
+Player 1 Wins!
+```
+
+### Draw Example
+```text
+Player 1, enter a number: 1
+Player 2, enter a number: 2
+Player 1, enter a number: 3
+Player 2, enter a number: 5
+Player 1, enter a number: 4
+Player 2, enter a number: 6
+Player 1, enter a number: 8
+Player 2, enter a number: 7
+Player 1, enter a number: 9
+
+Game Draw!
+```
+
+## 📚 Concepts Used
+- Arrays
+- Functions
+- Loops
+- Conditional Statements
+- Switch Case
+- User Input/Output
+- Game Logic Implementation
+
+## 🎯 Learning Outcomes
+- Understanding game development fundamentals
+- Working with arrays and functions
+- Implementing turn-based logic
+- Handling user input validation
+- Developing problem-solving skills
+
+## 👩‍💻 Author
+Ayushi Kumari
+
+## 📜 Internship
+CodSoft C++ Programming Internship
