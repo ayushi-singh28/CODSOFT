@@ -31,7 +31,7 @@ The Number Guessing Game is a simple console-based C++ application where the com
 guess_game.cpp
 ```
 
-## ▶️ How to Run
+## ▶️ How to Run ?
 
 ### Compile the Program
 ```bash
@@ -126,7 +126,7 @@ The Simple Calculator is a console-based C++ application that performs basic ari
 calculator.cpp
 ```
 
-## ▶️ How to Run
+## ▶️ How to Run ?
 
 ### Compile the Program
 ```bash
@@ -217,7 +217,7 @@ The Tic-Tac-Toe Game is a console-based C++ application that allows two players 
 - Visual Studio Code
 - GitHub
 
-## ⚙️ How It Works
+## ⚙️ How It Works ?
 1. The game displays a 3×3 board.
 2. Player 1 uses **X** and Player 2 uses **O**.
 3. Players take turns entering a position on the board.
@@ -231,7 +231,7 @@ The Tic-Tac-Toe Game is a console-based C++ application that allows two players 
 tic_tac_toe.cpp
 ```
 
-## ▶️ How to Run
+## ▶️ How to Run ?
 
 ### Compile the Program
 ```bash
